@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd37afe-a5e0-448d-a537-66c4b3cdc501" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloJava1_PR1_1Einheit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArithmetischeOperationen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +58,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArithmetischeOperationen">
+    <configuration name="ArithmetischeOperationen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmetischeOperationen" />
+      <module name="HelloJava1_PR1_1Einheit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="HelloJava1_PR1_1Einheit" />
@@ -54,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmetischeOperationen" />
         <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
@@ -67,9 +89,44 @@
       <option name="presentableId" value="Default" />
       <updated>1605346843580</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added First Java Demo File">
+      <created>1605347361334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605347361334</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added First Java File and first line of code">
+      <created>1605347483035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605347483035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added First Java Demo File" />
+    <MESSAGE value="Added First Java File and first line of code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added First Java File and first line of code" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="551" y="202" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1605347580155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="202" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1605347580155" />
     <state x="797" y="444" key="Github.ShareDialog" timestamp="1605346917381">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -78,5 +135,29 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="751" y="252" key="Github.UntrackedFilesDialog/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1605346923824" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1605349219360">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1605349219360" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1605349219358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1605349219358" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1605349219357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1605349219357" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1605349219359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1605349219359" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605347486960">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1605347486960" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1605349178532">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1605349178532" />
   </component>
 </project>
